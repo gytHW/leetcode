@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 int climbStairs(int n) {
     int *num = (int *)calloc(n, sizeof(int));
     if (n == 1) {
