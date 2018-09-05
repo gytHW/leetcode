@@ -8,3 +8,4 @@ awk 'NR==10' file.txt
 
 #思路三 sed
 sed -n '10{p;q}' file.txt
+sed -n '10p' file.txt #另一种写法
