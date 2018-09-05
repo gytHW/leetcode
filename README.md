@@ -40,3 +40,4 @@ solved leetcode problems recording
 |182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)| 查找重复的电子邮箱 | [SQL](./database/182-DuplicateEmails.sql) | Easy |
 |183|[Customers Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/description/)| 从不订购的客户 | [SQL](./database/183-CustomersWhoNeverOrder.sql) | Easy |
 |596|[Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)| 超过5名学生的课 | [SQL](./database/596-ClassesMoreThan5Students.sql) | Easy |
+|620|[Not Boring Movies](https://leetcode-cn.com/problems/not-boring-movies/description/)| 有趣的电影 | [SQL](./database/620-NotBoringMovies.sql) | Easy |
