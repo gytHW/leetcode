@@ -37,3 +37,6 @@ solved leetcode problems recording
 | # | Title | Chinese Title | Solution | Difficulty |
 |---| ----- | ------------- | -------- | ---------- |
 |176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/description/)| 第二高的薪水 | [SQL](./database/176-SecondHighestSalary.sql) | Easy |
+|182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)| 查找重复的电子邮箱 | [SQL](./database/182-DuplicateEmails.sql) | Easy |
+|183|[Customers Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/description/)| 从不订购的客户 | [SQL](./database/183-CustomersWhoNeverOrder.sql) | Easy |
+|596|[Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)| 超过5名学生的课 | [SQL](./database/596-ClassesMoreThan5Students.sql) | Easy |
