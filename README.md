@@ -11,7 +11,7 @@ solved leetcode problems recording
 
 
 | # | Title | Chinese Title | Solution | Difficulty | 
-|---| ----- | --------      | -------- | ---------- |
+|---| ----- | ------------- | -------- | ---------- |
 |1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | 两数之和 | [JavaScript](./algorithm/javascript/TwoSum.js) | Easy |
 |7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) | 反转整数 | [JavaScript](./algorithm/javascript/ReverseInteger.js) | Easy |
 |27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/description/) | 移除元素 | [JavaScript](./algorithm/javascript/RemoveElement.js) | Easy |
@@ -28,12 +28,12 @@ solved leetcode problems recording
 
 
 | # | Title | Chinese Title | Solution | Difficulty |
-|---| ----- | --------      | -------- | ---------- |
+|---| ----- | ------------- | -------- | ---------- |
 |195|[Tenth Line](https://leetcode-cn.com/problems/tenth-line/description/)| 第十行 | [Bash](./shell/195-TenthLine.sh) | Easy |
 
 
 ### LeetCode Database   
 
 | # | Title | Chinese Title | Solution | Difficulty |
-|---| ----- | --------      | -------- | ---------- |
-
+|---| ----- | ------------- | -------- | ---------- |
+|176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/description/)| 第二高的薪水 | [SQL](./database/176-SecondHighestSalary.sql) | Easy |
