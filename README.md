@@ -10,7 +10,8 @@ solved leetcode problems recording
 
 | # | Title | Chinese Title | Solution | Difficulty | 
 |---| ----- | --------      | -------- | ---------- |
-|70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | 爬楼梯 | [C](./algorithm/c/70-ClimbingStairs.cpp) | Easy |
+|70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | 爬楼梯 | [C](./algorithm/c/70-ClimbingStairs.c) | Easy |
+|88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
 
 
 ### LeetCode Shell
