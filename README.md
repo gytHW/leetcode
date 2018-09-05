@@ -1,5 +1,6 @@
 # leetcode
 solved leetcode problems recording
+[LeetCode Homepage](https://leetcode-cn.com/nagisa/)
 
 ========
 
@@ -12,6 +13,8 @@ solved leetcode problems recording
 |---| ----- | --------      | -------- | ---------- |
 |70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | 爬楼梯 | [C](./algorithm/c/70-ClimbingStairs.c) | Easy |
 |88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
+|100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
+|141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 
 
 ### LeetCode Shell
