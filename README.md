@@ -22,6 +22,7 @@ solved leetcode problems recording
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 |202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/description/) | 快乐数 | [Python](./algorithm/python/202-HappyNumber.py) | Easy |
+|414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/description/) | 第三大的数 | [Python](./algorithm/python/414-ThirdMaximumNumber.py) | Easy |
 |442 | [Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/) | 数组中重复的数据 | [Python](./algorithm/python/442-FindAllDuplicatesInAnArray.py.py) | Medium |
 |448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | 找到所有数组中消失的数字 | [Python](./algorithm/python/448-FindAllNumbersDisappearedInAnArray.py) | Easy |
 |520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) | 检测大写字母 | [Python](./algorithm/python/520-DetectCapital.py) | Easy |
