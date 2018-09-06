@@ -28,6 +28,7 @@ solved leetcode problems recording
 |442 | [Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/) | 数组中重复的数据 | [Python](./algorithm/python/442-FindAllDuplicatesInAnArray.py.py) | Medium |
 |448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | 找到所有数组中消失的数字 | [Python](./algorithm/python/448-FindAllNumbersDisappearedInAnArray.py) | Easy |
 |520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) | 检测大写字母 | [Python](./algorithm/python/520-DetectCapital.py) | Easy |
+|724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/) | 寻找数组的中心索引 | [Python](./algorithm/python/724-FindPivotIndex.py) | Easy |
 
 
 ### LeetCode Shell
