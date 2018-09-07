@@ -29,6 +29,7 @@ solved leetcode problems recording
 |414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/description/) | 第三大的数 | [Python](./algorithm/python/414-ThirdMaximumNumber.py) | Easy |
 |442 | [Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/) | 数组中重复的数据 | [Python](./algorithm/python/442-FindAllDuplicatesInAnArray.py.py) | Medium |
 |448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | 找到所有数组中消失的数字 | [Python](./algorithm/python/448-FindAllNumbersDisappearedInAnArray.py) | Easy |
+|485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 最大连续1的个数 | [Python](./algorithm/python/485-MaxConsecutiveOnes.py) | Easy |
 |520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) | 检测大写字母 | [Python](./algorithm/python/520-DetectCapital.py) | Easy |
 |724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/) | 寻找数组的中心索引 | [Python](./algorithm/python/724-FindPivotIndex.py) | Easy |
 |896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/) | 单调数列 | [Python](./algorithm/python/896-MonotonicArray.py) | Easy |
