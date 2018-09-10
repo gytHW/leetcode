@@ -20,6 +20,7 @@ solved leetcode problems recording
 |41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/description/) | 缺失的第一个正数 | [Python](./algorithm/python/41-FirstMissingPositive.py) | Hard |
 |70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | 爬楼梯 | [C](./algorithm/c/70-ClimbingStairs.c) | Easy |
 |71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/description/) | 简化路径 | [Python](./algorithm/python/71-SimplifyPath.py) | Medium |
+|80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 删除排序数组中的重复项 II | [Python](./algorithm/python/80-RemoveDuplicatesFromSortedArrayII.py) | Medium |
 |88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
