@@ -14,6 +14,7 @@ solved leetcode problems recording
 |---| ----- | ------------- | -------- | ---------- |
 |1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | 两数之和 | [JavaScript](./algorithm/javascript/TwoSum.js) | Easy |
 |7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) | 反转整数 | [JavaScript](./algorithm/javascript/ReverseInteger.js) | Easy |
+|26 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | 删除排序数组中的重复项 | [Python](./algorithm/python/26-RemoveDuplicatesFromSortedArray.py) | Easy |
 |27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/description/) | 移除元素 | [JavaScript](./algorithm/javascript/RemoveElement.js) | Easy |
 |35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) | 搜索插入位置 | [JavaScript](./algorithm/javascript/SearchInsertPosition.js)<br/>[Python](./algorithm/python/35-SearchInsertPosition.py) | Easy |
 |41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/description/) | 缺失的第一个正数 | [Python](./algorithm/python/41-FirstMissingPositive.py) | Hard |
