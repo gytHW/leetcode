@@ -25,6 +25,7 @@ solved leetcode problems recording
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 |202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/description/) | 快乐数 | [Python](./algorithm/python/202-HappyNumber.py) | Easy |
+|217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) | 存在重复元素 | [Python](./algorithm/python/217-ContainsDuplicate.py) | Easy |
 |287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | 寻找重复数 | [Python](./algorithm/python/287-FindTheDuplicateNumber.py) | Medium |
 |380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | 常数时间插入、删除和获取随机元素 | [Python](./algorithm/python/380-InsertDeleteGetRandomO1.py) | Medium |
 |381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | O(1) 时间插入、删除和获取随机元素 - 允许重复 | [Python](./algorithm/python/381-InsertDeleteGetRandomO1-DuplicatesAllowed.py) | Hard |
