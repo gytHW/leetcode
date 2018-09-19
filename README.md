@@ -30,6 +30,7 @@ solved leetcode problems recording
 |349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | 两个数组的交集 | [Python](./algorithm/python/349-IntersectionofTwoArrays.py) | Easy |
 |380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | 常数时间插入、删除和获取随机元素 | [Python](./algorithm/python/380-InsertDeleteGetRandomO1.py) | Medium |
 |381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | O(1) 时间插入、删除和获取随机元素 - 允许重复 | [Python](./algorithm/python/381-InsertDeleteGetRandomO1-DuplicatesAllowed.py) | Hard |
+|389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/description/) | 找不同 | [Python](./algorithm/python/389-FindtheDifference.py) | Easy |
 |414 | [Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/description/) | 第三大的数 | [Python](./algorithm/python/414-ThirdMaximumNumber.py) | Easy |
 |441 | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/) | 排列硬币 | [Python](./algorithm/python/441-ArrangingCoins.py) | Easy |
 |442 | [Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/) | 数组中重复的数据 | [Python](./algorithm/python/442-FindAllDuplicatesInAnArray.py.py) | Medium |
