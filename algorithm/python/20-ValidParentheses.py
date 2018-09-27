@@ -13,14 +13,11 @@ class Solution:
             if i in left:
                 res.append(i)
             if i in right:
-            	#这个判断比较重要，如果先出现右括号
-                if not res:
+            	#需要判断res是否为空，如果先出现右括号
+                if not res or res[-1] != keymap[i]:
                     return False
-                last = res[-1]
-                if last == keymap[i]:
-                    res.pop()
                 else:
-                    return False
+                    res.pop()
         if not res:
             return True
         return False
