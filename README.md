@@ -10,8 +10,8 @@ solved leetcode problems recording
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 
-| # | Title | Chinese Title | Solution | Difficulty | 
-|---| ----- | ------------- | -------- | ---------- |
+| # | Title | Chinese Title | Solution | Difficulty | Date |
+|---| ----- | ------------- | -------- | ---------- | ---- |
 |1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | 两数之和 | [JavaScript](./algorithm/javascript/TwoSum.js) | Easy |
 |7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) | 反转整数 | [JavaScript](./algorithm/javascript/ReverseInteger.js) | Easy |
 |20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/) | 有效的括号 | [Python](./algorithm/python/20-ValidParentheses.py) | Easy |
@@ -26,6 +26,7 @@ solved leetcode problems recording
 |88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
+|165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | 比较版本号 | [Python3](./algorithm/python/165-CompareVersionNumbers.py) | Medium | 2019-06-06 |
 |202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/description/) | 快乐数 | [Python](./algorithm/python/202-HappyNumber.py) | Easy |
 |217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) | 存在重复元素 | [Python](./algorithm/python/217-ContainsDuplicate.py) | Easy |
 |287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | 寻找重复数 | [Python](./algorithm/python/287-FindTheDuplicateNumber.py) | Medium |
