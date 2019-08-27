@@ -39,6 +39,7 @@ solved leetcode problems recording
 |441 | [Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/) | 排列硬币 | [Python](./algorithm/python/441-ArrangingCoins.py) | Easy |
 |442 | [Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/) | 数组中重复的数据 | [Python](./algorithm/python/442-FindAllDuplicatesInAnArray.py.py) | Medium |
 |448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | 找到所有数组中消失的数字 | [Python](./algorithm/python/448-FindAllNumbersDisappearedInAnArray.py) | Easy |
+|461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | 汉明距离 | [Python](./algorithm/python/461-HammingDistance.py) | Easy |
 |485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 最大连续1的个数 | [Python](./algorithm/python/485-MaxConsecutiveOnes.py) | Easy |
 |520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) | 检测大写字母 | [Python](./algorithm/python/520-DetectCapital.py) | Easy |
 |575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/) | 分糖果 | [Python](./algorithm/python/575-DistributeCandies.py) | Easy |
