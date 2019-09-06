@@ -31,6 +31,7 @@ solved leetcode problems recording
 |202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/description/) | 快乐数 | [Python](./algorithm/python/202-HappyNumber.py) | Easy |
 |206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | 反转链表 | [C](./algorithm/c/206-ReverseLinkedList.c)<br/>[Python3](./algorithm/python/206-ReverseLinkedList.py) | Easy | ☆ |
 |217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) | 存在重复元素 | [Python](./algorithm/python/217-ContainsDuplicate.py) | Easy |
+|268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | 缺失数字 | [Python3](./algorithm/python/268-MissingNumber.py) | Easy |
 |287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | 寻找重复数 | [Python](./algorithm/python/287-FindTheDuplicateNumber.py) | Medium |
 |349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | 两个数组的交集 | [Python](./algorithm/python/349-IntersectionofTwoArrays.py) | Easy |
 |380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | 常数时间插入、删除和获取随机元素 | [Python](./algorithm/python/380-InsertDeleteGetRandomO1.py) | Medium |
