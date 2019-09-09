@@ -33,6 +33,7 @@ solved leetcode problems recording
 |217 | [Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) | 存在重复元素 | [Python](./algorithm/python/217-ContainsDuplicate.py) | Easy |
 |268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | 缺失数字 | [Python3](./algorithm/python/268-MissingNumber.py) | Easy |
 |287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | 寻找重复数 | [Python](./algorithm/python/287-FindTheDuplicateNumber.py) | Medium |
+|344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | 反转字符串 | [Python3](./algorithm/python/344-ReverseString.py) | Easy | 2019-09-09 |
 |349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | 两个数组的交集 | [Python](./algorithm/python/349-IntersectionofTwoArrays.py) | Easy |
 |380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | 常数时间插入、删除和获取随机元素 | [Python](./algorithm/python/380-InsertDeleteGetRandomO1.py) | Medium |
 |381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | O(1) 时间插入、删除和获取随机元素 - 允许重复 | [Python](./algorithm/python/381-InsertDeleteGetRandomO1-DuplicatesAllowed.py) | Hard |
