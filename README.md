@@ -20,7 +20,7 @@ solved leetcode problems recording
 |27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/description/) | 移除元素 | [JavaScript](./algorithm/javascript/RemoveElement.js) | Easy |
 |35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) | 搜索插入位置 | [JavaScript](./algorithm/javascript/SearchInsertPosition.js)<br/>[Python](./algorithm/python/35-SearchInsertPosition.py) | Easy |
 |41 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/description/) | 缺失的第一个正数 | [Python](./algorithm/python/41-FirstMissingPositive.py) | Hard |
-|62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | 不同路径 | [Python](./algorithm/python/62-UniquePaths.py) | Medium |
+|62 | [Unique Paths](https://leetcode-cn.com/problems/unique-paths/) | 不同路径 | [Python](./algorithm/python/62-UniquePaths.py) | Medium | 2020-04-16
 |70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | 爬楼梯 | [C](./algorithm/c/70-ClimbingStairs.c) | Easy |
 |71 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/description/) | 简化路径 | [Python](./algorithm/python/71-SimplifyPath.py) | Medium |
 |80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 删除排序数组中的重复项 II | [Python](./algorithm/python/80-RemoveDuplicatesFromSortedArrayII.py) | Medium |
