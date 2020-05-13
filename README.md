@@ -26,8 +26,8 @@ solved leetcode problems recording
 |80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 删除排序数组中的重复项 II | [Python](./algorithm/python/80-RemoveDuplicatesFromSortedArrayII.py) | Medium |
 |88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
-|102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 二叉树的层序遍历 | [Python](./algorithm/python/102-BinaryTreeLevelOrderTraversal.py) | Medium |
-|103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 二叉树的锯齿形层次遍历 | [Python](./algorithm/python/103-BinaryTreeZigzagLevelOrderTraversal.py) | Medium |
+|102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 二叉树的层序遍历 | [Python](./algorithm/python/102-BinaryTreeLevelOrderTraversal.py) | Medium | 2020-05-12 |
+|103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 二叉树的锯齿形层次遍历 | [Python](./algorithm/python/103-BinaryTreeZigzagLevelOrderTraversal.py) | Medium | 2020-05-13 |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 |165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | 比较版本号 | [Python3](./algorithm/python/165-CompareVersionNumbers.py) | Medium | 2019-06-06 |
 |169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | 求众数 | [Python](./algorithm/python/169-MajorityElement.py) | Easy | 2019-08-26 |
