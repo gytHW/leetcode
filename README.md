@@ -80,6 +80,6 @@ solved leetcode problems recording
 ### LeetCode InterviewCase
 
 
-| # | Title | Chinese Title | Solution | Difficulty |
-|---| ----- | ------------- | -------- | ---------- |
+| # | Title | Chinese Title | Solution | Difficulty | Date |
+|---| ----- | ------------- | -------- | ---------- | ---- |
 |21|[链接](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| 调整数组顺序使奇数位于偶数前面 LCOF | [Python](./interview/21.py) | Easy | 2020-05-13 |
