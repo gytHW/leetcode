@@ -28,6 +28,7 @@ solved leetcode problems recording
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
 |102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 二叉树的层序遍历 | [Python](./algorithm/python/102-BinaryTreeLevelOrderTraversal.py) | Medium | 2020-05-12 |
 |103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 二叉树的锯齿形层次遍历 | [Python](./algorithm/python/103-BinaryTreeZigzagLevelOrderTraversal.py) | Medium | 2020-05-13 |
+|136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | 只出现一次的数字 | [Python](./algorithm/python/136-SingleNumber.py) | Easy | 2020-05-14 |
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 |165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | 比较版本号 | [Python3](./algorithm/python/165-CompareVersionNumbers.py) | Medium | 2019-06-06 |
 |169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | 求众数 | [Python](./algorithm/python/169-MajorityElement.py) | Easy | 2019-08-26 |
