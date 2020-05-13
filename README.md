@@ -75,3 +75,11 @@ solved leetcode problems recording
 |596|[Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)| 超过5名学生的课 | [SQL](./database/596-ClassesMoreThan5Students.sql) | Easy |
 |620|[Not Boring Movies](https://leetcode-cn.com/problems/not-boring-movies/description/)| 有趣的电影 | [SQL](./database/620-NotBoringMovies.sql) | Easy |
 |627|[Swap Salary](https://leetcode-cn.com/problems/swap-salary/description/)| 交换工资 | [SQL](./database/627-SwapSalary.sql) | Easy |
+
+
+### LeetCode InterviewCase
+
+
+| # | Title | Chinese Title | Solution | Difficulty |
+|---| ----- | ------------- | -------- | ---------- |
+|21|[链接](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| 调整数组顺序使奇数位于偶数前面 LCOF | [Python](./interview/21.py) | Easy |
