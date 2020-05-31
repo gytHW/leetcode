@@ -57,6 +57,7 @@ solved leetcode problems recording
 |724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/) | 寻找数组的中心索引 | [Python](./algorithm/python/724-FindPivotIndex.py) | Easy |
 |791 | [Custom Sort String](https://leetcode-cn.com/problems/custom-sort-string/description/) | 自定义字符串排序 | [Python](./algorithm/python/791-CustomSortString.py) | Medium |
 |896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/) | 单调数列 | [Python](./algorithm/python/896-MonotonicArray.py) | Easy |
+|1431 | [Kids With the Greatest Number of Candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | 拥有最多糖果的孩子 | [Python](./algorithm/python/1431-KidsWiththeGreatestNumberofCandies.py) | Easy | 2020-06-01
 
 
 ### LeetCode Shell
