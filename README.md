@@ -12,7 +12,7 @@ solved leetcode problems recording
 
 | # | Title | Chinese Title | Solution | Difficulty | Date |
 |---| ----- | ------------- | -------- | ---------- | ---- |
-|1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | 两数之和 | [JavaScript](./algorithm/javascript/TwoSum.js) | Easy |
+|1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | 两数之和 | [JavaScript](./algorithm/javascript/TwoSum.js) / [Go](./algorithm/go/1-TwoSum.go)| Easy |
 |7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) | 反转整数 | [JavaScript](./algorithm/javascript/ReverseInteger.js) | Easy |
 |20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/) | 有效的括号 | [Python](./algorithm/python/20-ValidParentheses.py) | Easy |
 |21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | 合并两个有序链表 | [Go](./algorithm/go/21-MergeTwoSortedLists.go) | Easy |
