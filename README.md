@@ -26,6 +26,7 @@ solved leetcode problems recording
 |80 | [Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 删除排序数组中的重复项 II | [Python](./algorithm/python/80-RemoveDuplicatesFromSortedArrayII.py) | Medium |
 |88 | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | 合并两个有序数组 | [C](./algorithm/c/88-MergeSortedArray.c) | Easy |
 |100 | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | 相同的树 | [C](./algorithm/c/100-SameTree.c) | Easy |
+|101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | 对称二叉树 | [Go](./algorithm/go/101-symmetric-tree.go) | Easy |
 |102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 二叉树的层序遍历 | [Python](./algorithm/python/102-BinaryTreeLevelOrderTraversal.py) | Medium | 2020-05-12 |
 |103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 二叉树的锯齿形层次遍历 | [Python](./algorithm/python/103-BinaryTreeZigzagLevelOrderTraversal.py) | Medium | 2020-05-13 |
 |105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 从前序与中序遍历序列构造二叉树 | [Python](./algorithm/python/105-ConstructBinaryTreefromPreorderandInorderTraversal.py) | Medium | 2020-05-14 |
