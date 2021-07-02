@@ -61,6 +61,7 @@ solved leetcode problems recording
 |896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/) | 单调数列 | [Python](./algorithm/python/896-MonotonicArray.py) | Easy |
 |1344 | [Angle Between Hands of a Clock](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/description/) | 时钟指针的夹角 | [Python3](./algorithm/python/1344.py) | Medium |
 |1431 | [Kids With the Greatest Number of Candies](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | 拥有最多糖果的孩子 | [Python](./algorithm/python/1431-KidsWiththeGreatestNumberofCandies.py) | Easy | 2020-06-01
+|1833 | [Maximum Ice Cream Bars](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | 雪糕的最大数量 | [Python](./algorithm/python/1833-maximum-ice-cream-bars.py) | Medium | 2020-07-02
 
 
 ### LeetCode Shell
