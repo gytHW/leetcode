@@ -42,6 +42,7 @@ solved leetcode problems recording
 |268 | [Missing Number](https://leetcode-cn.com/problems/missing-number/) | 缺失数字 | [Python3](./algorithm/python/268-MissingNumber.py) | Easy |
 |275 | [H-Index II](https://leetcode-cn.com/problems/h-index-ii/) | H 指数 II | [Python3](./algorithm/python/275.H-IndexII.py) | Medium |
 |287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | 寻找重复数 | [Python](./algorithm/python/287-FindTheDuplicateNumber.py) | Medium |
+|290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | 单词规律 | [Python](./algorithm/python/290-WordPattern.py) | Easy |
 |344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | 反转字符串 | [Python3](./algorithm/python/344-ReverseString.py) | Easy | 2019-09-09 |
 |349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | 两个数组的交集 | [Python](./algorithm/python/349-IntersectionofTwoArrays.py) | Easy |
 |380 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | 常数时间插入、删除和获取随机元素 | [Python](./algorithm/python/380-InsertDeleteGetRandomO1.py) | Medium |
