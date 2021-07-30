@@ -35,6 +35,7 @@ solved leetcode problems recording
 |141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/) | 环形链表 | [C](./algorithm/c/141-LinkedListCycle.c) | Easy |
 |165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | 比较版本号 | [Python3](./algorithm/python/165-CompareVersionNumbers.py) | Medium | 2019-06-06 |
 |169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | 求众数 | [Python](./algorithm/python/169-MajorityElement.py) | Easy | 2019-08-26 |
+|171 | [Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | Excel 表列序号 | [Python](./algorithm/python/171-ExcelSheetColumnNumber.py) | Easy | 2021-07-30 |
 |198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | 打家劫舍 | [Python](./algorithm/python/198-HouseRobber.py) | Easy | 2020-05-29 |
 |202 | [Happy Number](https://leetcode-cn.com/problems/happy-number/description/) | 快乐数 | [Python](./algorithm/python/202-HappyNumber.py) | Easy |
 |206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | 反转链表 | [C](./algorithm/c/206-ReverseLinkedList.c)[Python3](./algorithm/python/206-ReverseLinkedList.py) | Easy | ☆ |
