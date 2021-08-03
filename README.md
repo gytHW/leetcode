@@ -57,6 +57,7 @@ solved leetcode problems recording
 |485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/) | 最大连续1的个数 | [Python](./algorithm/python/485-MaxConsecutiveOnes.py) | Easy |
 |520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) | 检测大写字母 | [Python](./algorithm/python/520-DetectCapital.py) | Easy |
 |575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/) | 分糖果 | [Python](./algorithm/python/575-DistributeCandies.py) | Easy |
+|581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | 最短无序连续子数组 | [Python](./algorithm/python/581-ShortestUnsortedContinuousSubarray.py) | Medium | 2021-08-03 |
 |628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/) | 三个数的最大乘积 | [Python](./algorithm/python/628-MaximumProductofThreeNumbers.py) | Easy |
 |704 | [Binary Search](https://leetcode-cn.com/problems/binary-search/description/) | 二分查找 | [Python](./algorithm/python/704-BinarySearch.py) | Easy |
 |724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/) | 寻找数组的中心索引 | [Python](./algorithm/python/724-FindPivotIndex.py) | Easy |
